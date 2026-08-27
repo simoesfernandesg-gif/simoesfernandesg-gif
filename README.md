@@ -8,4 +8,4 @@
 
 ## Como me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosana-fernandes-simões-1aa2799b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](simoes.fernandesg@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:simoes.fernandesg@gmail.com)
